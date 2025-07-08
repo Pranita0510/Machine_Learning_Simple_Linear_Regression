@@ -1,4 +1,4 @@
-🤖 Simple Linear Regression in Machine Learning:
+**🤖 Simple Linear Regression in Machine Learning:**
 
 This notebook contains a complete machine learning pipeline—from data preprocessing to model training and evaluation—using popular Python libraries. It is designed to demonstrate how cleaned and encoded data can be used to build predictive models.
 
